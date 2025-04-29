@@ -1,7 +1,8 @@
 # ECE583_Final_Project
 ECE583 Final Project
+Joey and Andy
 
-This Repo contains relevant files for our COS583 final project: a 3-bit relay adder based on Shannon's master thesis. Below is a brief description of every relevant file.
+This Repo contains relevant files for our COS583 final project: a 3-bit relay adder based on Shannon's master thesis. Below is a brief description of every relevant file. 
 
 COS583_Arduino_Code.ino : Code uploaded to our Arduino Uno that interfaces with our hardware. Reads in serial data string from laptop (ex: "3+7"), parses input data and outputs digital logic levels to our breadboard/hardware. Additionally, the software uses pins to digitally read the result from our breadboard, synthesizes the data, and converts it to decimal to display on the serial monitor on the laptop.
 
