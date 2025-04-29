@@ -1,5 +1,5 @@
 # ECE583_Final_Project
-ECE583 Final Project
+ECE583 Final Project 
 Joey and Andy
 
 This Repo contains relevant files for our COS583 final project: a 3-bit relay adder based on Shannon's master thesis. Below is a brief description of every relevant file. 
